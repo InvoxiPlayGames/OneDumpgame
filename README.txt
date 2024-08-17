@@ -3,6 +3,11 @@ OneDumpgame
 Preserving games from the Xbox One using the research and methods from
 https://xboxoneresearch.github.io/games/2024/05/15/xbox-dump-games.html
 
+-= FOR A MORE RELIABLE DUMPING EXPERIENCE =-
+Use the Twodump tool and Lua script from from
+https://github.com/XboxOneResearch/LuaFFI-CE
+OneDumpgame isn't recommended anymore
+
 !!!
 This is for research purposes only.
 THIS WILL NOT ASSIST WITH PIRACY. THIS WILL NOT GET YOU FREE GAMES. GO AWAY!
